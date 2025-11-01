@@ -1,6 +1,6 @@
 # 🛑Bresenham_Line_Drawing_Algorithm
 ## ➕Project Overview
-   This project implements Bresenham’s Line Drawing Algorithm in C using OpenGL (GLUT) to draw lines across all 8 octants.
+   This project implements Bresenham’s Line Drawing Algorithm in C++ using OpenGL (GLUT) to draw lines across all 8 octants.
  The algorithm uses integer-based rasterization, making it fast, efficient, and ideal for computer graphics applications.
 
 ## ⭕Features
@@ -8,7 +8,7 @@
 * Implementation of Bresenham’s Line Algorithm
 * Handles all 8 octants (positive/negative slopes, steep/shallow lines)
 * Draws line segments using pixel plotting
-* Built using C, OpenGL, and GLUT
+* Built using C++, OpenGL, and GLUT
 * Simple and clear visualization
   
 ## ⭕How It Works
